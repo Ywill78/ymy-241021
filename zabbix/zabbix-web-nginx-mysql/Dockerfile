@@ -1,0 +1,1 @@
+FROM zabbix/zabbix-web-nginx-mysql:6.0-alpine-latest

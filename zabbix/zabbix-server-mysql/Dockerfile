@@ -1,0 +1,1 @@
+FROM zabbix-server-mysql:6.0-centos-latest

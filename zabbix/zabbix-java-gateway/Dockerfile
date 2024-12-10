@@ -1,0 +1,1 @@
+FROM zabbix/zabbix-java-gateway:6.0-alpine-latest
