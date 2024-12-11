@@ -1,1 +1,1 @@
-FROM wang1010q/bishengjdk:17.0.6
+FROM openjdk:17.0
