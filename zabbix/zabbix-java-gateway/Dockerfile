@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-java-gateway:6.0-alpine-latest
+FROM zabbix/zabbix-java-gateway:6.0-alpine-latest@sha256:431bb0efd984a8e5c4496b2ed32274861c6365c94733a655546d30df5f7df98f
