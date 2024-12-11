@@ -1,1 +1,1 @@
-FROM openjdk:17.0.1@sha256:2fd12c42c12bf707f7ac0f5fa630ff9c59868dfc4428daaf34df9d82a0c5b101
+FROMdocker pull openjdk:17.0.1-jdk@sha256:8a99742c7c38a7b0826c8a47cacbca18af5c3a60e6eba18e75d6a8c28b9fa9b4
