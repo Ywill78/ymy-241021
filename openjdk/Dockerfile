@@ -1,1 +1,1 @@
-FROM openjdk:17.0.3
+FROM arm64v8/centos:7
