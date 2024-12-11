@@ -1,1 +1,1 @@
-FROM arm64v8/centos:7
+FROM wang1010q/bishengjdk:17.0.6
