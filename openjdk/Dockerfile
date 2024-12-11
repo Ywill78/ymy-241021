@@ -1,1 +1,1 @@
-FROM openjdk:17.0@sha256:2fd12c42c12bf707f7ac0f5fa630ff9c59868dfc4428daaf34df9d82a0c5b101
+FROM openjdk:17.0.1
