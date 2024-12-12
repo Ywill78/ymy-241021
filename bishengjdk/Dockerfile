@@ -1,1 +1,1 @@
-FROM wang1010q/bishengjdk:17.0.6@sha256:e7ae949a0c097c5cee0fceb3fc6596a32beabf233beb41c30058cd4b5c0f60d2
+FROM openeuler/openeuler:20.03-lts-sp3
