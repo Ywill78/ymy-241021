@@ -1,1 +1,1 @@
-FROM euleros:latest@sha256:5574fa79739b9b6f1972add7fcd8245f673c354beee646c71c7f32ee0f7827d3
+FROM euleros:latest@sha256:c05ffd9824da69fe0a6d0c8e4b15bcf758394e2372363af3f76583a8f8a2551d
