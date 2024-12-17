@@ -1,1 +1,1 @@
-FROM openeuler/openeuler:20.03-lts-sp3@sha256:93cf0f936eadb248e5ebcb7c6b035a0c8b9c6e0cadeed7203a4f7a1cbc848da7
+FROM euleros:latest
