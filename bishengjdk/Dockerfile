@@ -1,1 +1,1 @@
-FROM euleros:latest@sha256:c05ffd9824da69fe0a6d0c8e4b15bcf758394e2372363af3f76583a8f8a2551d
+FROM mysql:8.0.32@sha256:6b6a9ff1092a3aad91ceb61eae1a78b2d43b5a80be2de05b269ec2403ae03b40
