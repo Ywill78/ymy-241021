@@ -1,1 +1,1 @@
-FROM mysql:8.0.32@sha256:c86dfd69b3d1437e5d192447f0bdc57407d48bd379b97a453e11d72b97962e3b
+FROM prom/node-exporter:latest@sha256:1eabab826c9d9f0c534e4e8fa745445f743fef9aee276d561d12811edea74004
