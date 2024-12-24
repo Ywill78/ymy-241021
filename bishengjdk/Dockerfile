@@ -1,1 +1,1 @@
-FROM prom/node-exporter:latest@sha256:1eabab826c9d9f0c534e4e8fa745445f743fef9aee276d561d12811edea74004
+FROM prom/node-exporter:latest@sha256:065914c03336590ebed517e7df38520f0efb44465fde4123c3f6b7328f5a9396
