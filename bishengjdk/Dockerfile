@@ -1,1 +1,1 @@
-FROM 314315960/redis-trib:latest@sha256:a53012f48776900963d386e259644f91f722e9a22a715b4be87169a96bf3dcdb
+FROM docker.elastic.co/logstash/logstash:7.17.3
