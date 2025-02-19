@@ -1,1 +1,1 @@
-From grafana/logstash-output-loki:3.3.2
+FROM grafana/logstash-output-loki:3.3.2
