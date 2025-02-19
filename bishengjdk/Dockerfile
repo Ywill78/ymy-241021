@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:7.17.3
+docker pull grafana/logstash-output-loki:2.2.0-amd64
