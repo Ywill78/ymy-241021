@@ -1,1 +1,1 @@
-docker pull grafana/logstash-output-loki:3.3.2
+From grafana/logstash-output-loki:3.3.2
