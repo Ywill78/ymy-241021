@@ -1,1 +1,1 @@
-FROM grafana/logstash-output-loki:3.3.2
+FROM nginx:1.24.0@sha256:2e26275ed7a47e8e93f264d39a09ca4bc3f4058c904c75087e237f4ea883f2a1
