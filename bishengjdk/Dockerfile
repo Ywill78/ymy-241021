@@ -1,1 +1,1 @@
-FROM grafana/loki:2.8.6@sha256:38e04af8b5dcdabf7c68b9c18552d1d057f721d077b4e357e1be139f34a1aad5
+FROM nginx:1.26.0@sha256:06b17385a26c753ea07ea7bbddd5917d8ebbeab5cace6419e7961b649276edd0
