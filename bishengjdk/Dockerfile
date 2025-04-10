@@ -1,1 +1,1 @@
-FROM nginx:1.26.0@sha256:eb4693d65590d4c637d9b345d2bb14976016c51690cc3653980addef37fa6b5b
+FROM docker.elastic.co/eck/eck-operator:2.16.1@sha256:6188f613b744ff9dcfb91583c9bc088186f7cc6ac7f269f8edff3fc92d0193e1
