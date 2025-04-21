@@ -1,1 +1,1 @@
-FROM dyrnq/nfs-subdir-external-provisioner:v4.0.1@sha256:49c96f64737c3c0c433e7f6347958492396e04276fcd14f60d1c4202f7328d08
+FROM dyrnq/nfs-subdir-external-provisioner:v4.0.1@sha256:15df611c103fec0ad4589f4a239191b522ec4abb7310091a2c9c506cc0d2fba9
