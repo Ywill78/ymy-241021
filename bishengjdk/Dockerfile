@@ -1,1 +1,1 @@
-FROM docker.elastic.co/eck/eck-operator:2.16.1@sha256:6188f613b744ff9dcfb91583c9bc088186f7cc6ac7f269f8edff3fc92d0193e1
+FROM dyrnq/nfs-subdir-external-provisioner:v4.0.1@sha256:49c96f64737c3c0c433e7f6347958492396e04276fcd14f60d1c4202f7328d08
