@@ -1,1 +1,1 @@
-FROM dyrnq/nfs-subdir-external-provisioner:v4.0.1@sha256:15df611c103fec0ad4589f4a239191b522ec4abb7310091a2c9c506cc0d2fba9
+FROM elastic/eck-operator:3.0.0@sha256:cb2d3c7eb26fa44501524c129fbb78d64fc7cc57a8bb6a0eb709378015928cfd
