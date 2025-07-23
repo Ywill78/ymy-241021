@@ -1,1 +1,1 @@
-FROM traefik:v3.2@sha256:14b9b4c31dbb3fd7b024c4b40d27434477e7806437485a56a8430eb3eb24920c
+FROM traefik:v2.4.3
