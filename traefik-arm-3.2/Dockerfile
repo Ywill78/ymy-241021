@@ -1,1 +1,1 @@
-FROM traefik:v2.5.0
+FROM ghcr.io/iamseth/oracledb_exporter:0.5.0
