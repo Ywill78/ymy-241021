@@ -1,1 +1,1 @@
-FROM ghcr.io/iamseth/oracledb_exporter:0.5.0
+FROM prometheuscommunity/prometheus-oracle-exporter:v0.6.0
