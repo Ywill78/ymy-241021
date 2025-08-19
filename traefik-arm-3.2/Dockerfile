@@ -1,1 +1,1 @@
-FROM prometheuscommunity/prometheus-oracle-exporter:v0.6.0
+FROM prometheuscommunity/prometheus-oracle-exporter:latest
