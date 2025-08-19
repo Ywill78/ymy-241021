@@ -1,1 +1,1 @@
-FROM prometheuscommunity/prometheus-oracle-exporter:latest
+FROM iamseth/oracledb_exporter:latest
