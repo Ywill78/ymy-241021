@@ -1,1 +1,1 @@
-FROM iamseth/oracledb_exporter:latest
+FROM quay.io/oceanbase/oceanbase-ce@sha256:7ef205d67a9b32a227cfe64865669ba4f38566ec935d6ede1cb038d58b214f4d
