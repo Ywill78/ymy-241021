@@ -1,1 +1,1 @@
-FROM quay.io/oceanbase/oceanbase-ce@sha256:e0c6ae0df920c86e81bb09d8b365b2c2d70b4c74d9b995f7c311294d3d167f43
+FROM jenkins/jenkins:2.492.3-lts@sha256:81544189c8f6addfc34885b171a5a3f2dc052fb09629741a4abf463ddc208615
