@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-server-mysql:6.0-centos-latest
+FROM  zabbix/zabbix-server-mysql:alpine-5.0.3@sha256:8768985146de1f1bca5340ac43b29e18d0bdbf19aaf0b18dd5746002bfef202e
