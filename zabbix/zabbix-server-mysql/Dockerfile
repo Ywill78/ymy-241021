@@ -1,1 +1,1 @@
-FROM  zabbix/zabbix-server-mysql:alpine-5.0.3@sha256:8768985146de1f1bca5340ac43b29e18d0bdbf19aaf0b18dd5746002bfef202e
+FROM  zabbix/zabbix-server-mysql:6.4-alpine-latest@sha256:cda6ddbda3fc0c5d18294fa2a5d6df13e2decae692e33458847e5bf9dadfd9cb
