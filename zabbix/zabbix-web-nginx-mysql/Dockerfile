@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-web-nginx-mysql:alpine-5.0.3@sha256:6a8119b8274c0f3b47d9b712786ef09431ab52ffe0aa4f7d5984af4630f50741
+FROM zabbix/zabbix-web-nginx-mysql:6.4-alpine-latest@sha256:002c4d7da19d3de020c278b1b442eb8e413f319c1f00e2a7c9b9e8e9b6e30013
