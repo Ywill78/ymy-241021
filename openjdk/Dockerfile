@@ -1,1 +1,1 @@
-FROM docker pull ringcentral/jdk:21.0.5@sha256:6f6cd0bec21b42d3d95d9629e5a2e62d0a7ef5c8c769814713b3f68db8474275
+FROM ringcentral/jdk:21.0.5@sha256:6f6cd0bec21b42d3d95d9629e5a2e62d0a7ef5c8c769814713b3f68db8474275
