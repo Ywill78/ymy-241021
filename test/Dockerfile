@@ -1,1 +1,1 @@
-FROM mongo:4.4.30@sha256:076c09c2b5f6105ce3a970621372f57bfc4f4e2c8b821a35bf5fd699f886bb95
+FROM docker.io/calico/cni:v3.27.0
