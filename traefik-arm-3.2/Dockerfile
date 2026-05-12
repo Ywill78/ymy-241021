@@ -1,1 +1,1 @@
-FROM mongo:4.4.3-bionic@sha256:35d866a5fd70ff9b9cd520ad48bc4250f1a4e05171b205fcfc68fe9c51efa8e1
+FROM nginx:1.28.3
