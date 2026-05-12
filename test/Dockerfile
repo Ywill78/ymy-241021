@@ -4,4 +4,5 @@
 #FROM docker.io/calico/node:v3.27.0
 #FROM docker.io/calico/kube-controllers:v3.27.0
  #FROM docker.io/trinodb/trino:479
- FROM apache/gravitino:1.1.1
+# FROM apache/gravitino:1.1.1
+FROM nginx:1.30.0
