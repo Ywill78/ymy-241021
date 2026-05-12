@@ -1,1 +1,1 @@
-FROM nginx:1.28.3
+FROM --platform=linux/arm64 nginx:1.28.3
