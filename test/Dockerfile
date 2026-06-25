@@ -6,3 +6,4 @@
  #FROM docker.io/trinodb/trino:479
 # FROM apache/gravitino:1.1.1
 FROM --platform=linux/arm64 nginx:1.30.0
+FROM --platform=linux/arm64 sonatype/nexus3:3.70.1
