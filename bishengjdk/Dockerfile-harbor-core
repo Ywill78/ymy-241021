@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 goharbor/harbor-core:v2.15.2 

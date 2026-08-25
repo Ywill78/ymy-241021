@@ -1,1 +1,0 @@
-FROM elastic/eck-operator:3.0.0@sha256:cb2d3c7eb26fa44501524c129fbb78d64fc7cc57a8bb6a0eb709378015928cfd
