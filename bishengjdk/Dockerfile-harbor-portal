@@ -1,1 +1,0 @@
-FROM --platform=linux/arm64 goharbor/harbor-portal:v2.15.2 

@@ -1,1 +1,0 @@
-FROM --platform=linux/arm64 goharbor/trivy-adapter-photon:v2.15.2 
