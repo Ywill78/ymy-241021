@@ -8,4 +8,4 @@
 #FROM --platform=linux/arm64 nginx:1.30.0
 # --platform=linux/arm64 sonatype/nexus3:3.70.1
 #FROM rabbitmq:4.2.9-management
-FROM --platform linux/arm64 postgres:15.19
+FROM --platform=linux/arm64 postgres:15.19
